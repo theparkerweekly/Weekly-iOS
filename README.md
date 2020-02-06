@@ -7,7 +7,7 @@
 3. Open `Weekly.xcodeproj`
 
 ## Features
-- [x] Search articles from [weekly.fwparker.org](https://weekly.fwparker.org)
+- [x] Search for articles from [weekly.fwparker.org](https://weekly.fwparker.org)
 - [x] Log in with Google
 - [x] Dark mode
 - [ ] Offline mode with Realm
