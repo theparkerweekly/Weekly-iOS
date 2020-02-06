@@ -55,6 +55,7 @@
 		B261ACAE23EBBC8E00A742C9 /* SafariServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B261ACAD23EBBC8E00A742C9 /* SafariServices.framework */; };
 		B261ACB023EBBC9600A742C9 /* AuthenticationServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B261ACAF23EBBC9600A742C9 /* AuthenticationServices.framework */; };
 		B261ACB223EBBC9D00A742C9 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B261ACB123EBBC9D00A742C9 /* SystemConfiguration.framework */; };
+		B2C82A6C23EBC8DF00517161 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2C82A6B23EBC8DF00517161 /* SearchViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -125,6 +126,7 @@
 		B261ACAD23EBBC8E00A742C9 /* SafariServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SafariServices.framework; path = System/Library/Frameworks/SafariServices.framework; sourceTree = SDKROOT; };
 		B261ACAF23EBBC9600A742C9 /* AuthenticationServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AuthenticationServices.framework; path = System/Library/Frameworks/AuthenticationServices.framework; sourceTree = SDKROOT; };
 		B261ACB123EBBC9D00A742C9 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		B2C82A6B23EBC8DF00517161 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -194,6 +196,7 @@
 				B2364D7F23EBC05300260E39 /* CategoryDetailTableViewCell.swift */,
 				B2364D7D23EBBF4800260E39 /* SideTableViewController.swift */,
 				B261ACA523EBBBF200A742C9 /* LoginViewController.swift */,
+				B2C82A6B23EBC8DF00517161 /* SearchViewController.swift */,
 				B261AC4323EBB74A00A742C9 /* Main.storyboard */,
 				B261AC4623EBB74C00A742C9 /* Assets.xcassets */,
 				B261AC4823EBB74C00A742C9 /* LaunchScreen.storyboard */,
@@ -440,6 +443,7 @@
 				B261AC4223EBB74A00A742C9 /* ViewController.swift in Sources */,
 				B261AC3E23EBB74A00A742C9 /* AppDelegate.swift in Sources */,
 				B261AC8523EBB89F00A742C9 /* WPPost.swift in Sources */,
+				B2C82A6C23EBC8DF00517161 /* SearchViewController.swift in Sources */,
 				B2364D8023EBC05300260E39 /* CategoryDetailTableViewCell.swift in Sources */,
 				B261AC8423EBB89D00A742C9 /* WPAuthor.swift in Sources */,
 				B261AC8623EBB8A200A742C9 /* WPWeb.swift in Sources */,
