@@ -61,13 +61,13 @@
                                                                 <rect key="frame" x="16" y="33" width="382" height="29"/>
                                                                 <subviews>
                                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="News" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7z5-81-OsF" customClass="ThemedHeadline" customModule="SwiftyPress">
-                                                                        <rect key="frame" x="0.0" y="0.0" width="329" height="29"/>
+                                                                        <rect key="frame" x="0.0" y="0.0" width="330" height="29"/>
                                                                         <fontDescription key="fontDescription" name="Questrial-Regular" family="Questrial" pointSize="18"/>
                                                                         <nil key="textColor"/>
                                                                         <nil key="highlightedColor"/>
                                                                     </label>
                                                                     <button opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VXF-Jk-dx8">
-                                                                        <rect key="frame" x="329" y="0.0" width="53" height="29"/>
+                                                                        <rect key="frame" x="330" y="0.0" width="52" height="29"/>
                                                                         <fontDescription key="fontDescription" name="Questrial-Regular" family="Questrial" pointSize="17"/>
                                                                         <state key="normal" title="See All">
                                                                             <color key="titleColor" name="Accent"/>
@@ -121,13 +121,13 @@
                                                                 <rect key="frame" x="16" y="33" width="382" height="29"/>
                                                                 <subviews>
                                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Features" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Siz-Yg-9Fz" customClass="ThemedHeadline" customModule="SwiftyPress">
-                                                                        <rect key="frame" x="0.0" y="0.0" width="329" height="29"/>
+                                                                        <rect key="frame" x="0.0" y="0.0" width="330" height="29"/>
                                                                         <fontDescription key="fontDescription" name="Questrial-Regular" family="Questrial" pointSize="18"/>
                                                                         <nil key="textColor"/>
                                                                         <nil key="highlightedColor"/>
                                                                     </label>
                                                                     <button opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="egy-PV-Xdg">
-                                                                        <rect key="frame" x="329" y="0.0" width="53" height="29"/>
+                                                                        <rect key="frame" x="330" y="0.0" width="52" height="29"/>
                                                                         <fontDescription key="fontDescription" name="Questrial-Regular" family="Questrial" pointSize="17"/>
                                                                         <state key="normal" title="See All">
                                                                             <color key="titleColor" name="Accent"/>
@@ -175,13 +175,13 @@
                                                                 <rect key="frame" x="16" y="24" width="382" height="38"/>
                                                                 <subviews>
                                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Opinions" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DVB-XC-0yx" customClass="ThemedHeadline" customModule="SwiftyPress">
-                                                                        <rect key="frame" x="0.0" y="0.0" width="329" height="38"/>
+                                                                        <rect key="frame" x="0.0" y="0.0" width="330" height="38"/>
                                                                         <fontDescription key="fontDescription" name="Questrial-Regular" family="Questrial" pointSize="18"/>
                                                                         <nil key="textColor"/>
                                                                         <nil key="highlightedColor"/>
                                                                     </label>
                                                                     <button opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vyB-mu-gWf">
-                                                                        <rect key="frame" x="329" y="0.0" width="53" height="38"/>
+                                                                        <rect key="frame" x="330" y="0.0" width="52" height="38"/>
                                                                         <fontDescription key="fontDescription" name="Questrial-Regular" family="Questrial" pointSize="17"/>
                                                                         <state key="normal" title="See All">
                                                                             <color key="titleColor" name="Accent"/>
