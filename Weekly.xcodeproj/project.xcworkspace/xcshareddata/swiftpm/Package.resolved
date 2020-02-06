@@ -1,0 +1,88 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "git@github.com:Alamofire/Alamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "2cbf59935fbb1f26e352ce4db53f1cf9408d5313",
+          "version": "5.0.0-rc.3"
+        }
+      },
+      {
+        "package": "Kingfisher",
+        "repositoryURL": "git@github.com:onevcat/Kingfisher.git",
+        "state": {
+          "branch": null,
+          "revision": "44bfa76787a0f07e4d5ae3304e9d4f631fd519bd",
+          "version": "5.13.0"
+        }
+      },
+      {
+        "package": "Realm",
+        "repositoryURL": "git@github.com:realm/realm-cocoa.git",
+        "state": {
+          "branch": null,
+          "revision": "40732f2ec0cdc32d9d3df8219b2e655deb3077f1",
+          "version": "3.21.0"
+        }
+      },
+      {
+        "package": "RealmCore",
+        "repositoryURL": "https://github.com/realm/realm-core",
+        "state": {
+          "branch": null,
+          "revision": "512dfaa4f59930e193c92e00ba1924bde69b19de",
+          "version": "5.23.5"
+        }
+      },
+      {
+        "package": "SDWebImage",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImage.git",
+        "state": {
+          "branch": null,
+          "revision": "aa7ff6f060d8f34d2c66a716aefff1a3bc9ef816",
+          "version": "5.5.2"
+        }
+      },
+      {
+        "package": "SideMenu",
+        "repositoryURL": "https://github.com/jonkykong/SideMenu.git",
+        "state": {
+          "branch": null,
+          "revision": "fb25017bc7238145c4d6405255c3aeaa7993b4c7",
+          "version": "6.4.6"
+        }
+      },
+      {
+        "package": "Stencil",
+        "repositoryURL": "git@github.com:ZamzamInc/Stencil.git",
+        "state": {
+          "branch": "lite",
+          "revision": "2ad923ba172ace3c38a3995eedbec03e322c828b",
+          "version": null
+        }
+      },
+      {
+        "package": "SwiftyPress",
+        "repositoryURL": "https://github.com/ZamzamInc/SwiftyPress.git",
+        "state": {
+          "branch": "develop",
+          "revision": "8e5ff9d93d1731f85eda372b551c1d8d3e2cf56e",
+          "version": null
+        }
+      },
+      {
+        "package": "ZamzamKit",
+        "repositoryURL": "git@github.com:ZamzamInc/ZamzamKit.git",
+        "state": {
+          "branch": "develop",
+          "revision": "3ca809a322ff1d7fdcc24727ba33f2cb00dc08ef",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
