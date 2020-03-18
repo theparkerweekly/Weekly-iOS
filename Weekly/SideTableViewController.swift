@@ -12,7 +12,7 @@ class SideTableViewController: UITableViewController {
     
     let categoryNames = ["News", "Features", "Opinions", "Editorials", "Digital Exclusive", "The Back Page"]
     let categoryIds = [23, 6, 7, 27, 40, 28]
-    let web = WPWeb(url: "https://weekly.fwparker.org")
+    let web = WPWeb(url: "https://parkerweekly.org")
     var categories = [[WPPost]]()
 
     override func viewDidLoad() {

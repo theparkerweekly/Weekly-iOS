@@ -16,7 +16,7 @@ class SearchViewController: UIViewController, UISearchResultsUpdating, UISearchB
         }
     }
     
-    let web = WPWeb(url: "https://weekly.fwparker.org")
+    let web = WPWeb(url: "https://parkerweekly.org")
     var posts = [WPPost]()
     var filteredPosts = [WPPost]()
     

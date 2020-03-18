@@ -49,6 +49,7 @@ class DetailViewController: UIViewController, StatusBarable, WKNavigationDelegat
         fullString.append(post?.content.rendered.htmlAttributed.0 ?? NSAttributedString(string: ""))
         contentTextView.attributedText = fullString
         contentTextView.font = UIFont(name: "Georgia", size: 18)
+        contentTextView.textColor = UIColor.label
         print(post?.content.rendered)
         
 

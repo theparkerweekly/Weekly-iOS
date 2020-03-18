@@ -58,7 +58,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     
     private lazy var opinionsCollectionViewAdapter = PostsDataViewAdapter(for: opinionsCollectionView, delegate: self)
     
-    let web = WPWeb(url: "https://weekly.fwparker.org")
+    let web = WPWeb(url: "https://parkerweekly.org")
     var featured: [WPPost]?
     var news: [WPPost]?
     var features: [WPPost]?

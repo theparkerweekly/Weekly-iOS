@@ -12,7 +12,7 @@ class CategoryTableViewController: UITableViewController {
     
     var category: [WPPost]?
     var id: Int?
-    let web = WPWeb(url: "https://weekly.fwparker.org")
+    let web = WPWeb(url: "https://parkerweekly.org")
 
     override func viewDidLoad() {
         super.viewDidLoad()
